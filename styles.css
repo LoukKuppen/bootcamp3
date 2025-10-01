@@ -38,16 +38,30 @@ nav a {
 }
 
 .hero {
+    background-image: url(background1.jpg);
   padding: 6rem 2rem 4rem;
+  min-height: 60vh;
+  background-size: contain;
 }
 
 .hero h1 {
   font-size: 2.5rem;
   margin-bottom: 1rem;
+  color: #ffffff;
 }
 
 .hero p {
   font-size: 1.2rem;
-  color: #555;
+  color: #ffffff;
   margin-bottom: 2rem;
+}
+
+
+.info {
+  background: white;
+  text-align: center;
+  padding: 4rem 2rem;
+  margin-top: 2rem;
+  font-size: 2rem;
+  color: #333;
 }
