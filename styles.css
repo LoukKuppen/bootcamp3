@@ -36,3 +36,18 @@ nav a {
   color: white;
   font-weight: 500;
 }
+
+.hero {
+  padding: 6rem 2rem 4rem;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 2rem;
+}
